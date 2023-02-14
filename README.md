@@ -1,5 +1,5 @@
 # ety
-무료에티테마 (gnuboard5 bootstrap4 free theme)
+무료에티테마 (gnuboard5 bootstrap4)
 
 1.install
 https://github.com/gnuboard/gnuboard5/releases/tag/v5.5.7.5
